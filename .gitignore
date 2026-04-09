@@ -1,3 +1,10 @@
+# Obsidian
+.obsidian
+.idea
+MDFriday
+
+**/.DS_Store
+
 # Logs
 logs
 *.log
