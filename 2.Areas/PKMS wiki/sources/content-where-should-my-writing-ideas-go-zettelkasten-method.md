@@ -1,0 +1,157 @@
+---
+title: Where Should My Writing Ideas Go? • Zettelkasten Method.md
+type: source
+path: /Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/2.Areas/PKMS-wiki/content/Where Should My Writing Ideas Go? • Zettelkasten Method.md
+date: 2026-05-08T11:27:33.650Z
+---
+
+# Where Should My Writing Ideas Go? • Zettelkasten Method.md
+
+**Path**: `/Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/2.Areas/PKMS-wiki/content/Where Should My Writing Ideas Go? • Zettelkasten Method.md`
+
+**Summary**: 
+
+## Entities
+
+- [[Obsidian]] (tool)
+- [[Christian]] (person)
+- [[Sascha]] (person)
+- [[Getting Things Done: The Art of Stress-Free Productivity]] (book)
+- [[nvALT]] (tool)
+- [[Evernote]] (tool)
+- [[Sun Wei]] (person)
+- [[zettelkasten.de]] (other)
+- [[Andrés Monroy-Hernández]] (person)
+
+## Concepts
+
+- [[Zettelkasten]]
+- [[GTD (Getting Things Done)]]
+- [[Projects]]
+- [[Writing Process]]
+- [[Outlines]]
+- [[Antifragile]]
+- [[Knowledge Work]]
+- [[Task Management]]
+
+## Original Content
+
+---
+title: "Where Should My Writing Ideas Go? • Zettelkasten Method"
+source: "https://zettelkasten.de/posts/manage-writing-ideas/"
+author:
+  - "[[christian]]"
+published: 2016-07-18
+created: 2026-05-08
+description: "I managed my writing ideas in a to-do list for years. Since I follow the principles of the Getting Things Done methodology, a book idea was the perfect candidate for a “someday/maybe” project. That’s a project which you can prepare with anything from the top of your head without much real planning. You don’t have to follow-up on it anytime soon if you don’t want and thus defer taking any action until later. You can have ideas now and execute them later, whenever you wish."
+tags:
+  - "clippings"
+---
+I managed my [[Writing]] ideas in a to-do list for years. Since I follow the principles of the *[[[Getting [[Things]] Done]]](http://amzn.to/294PKTf)* methodology, a book idea was the perfect candidate for a “someday/maybe” project. That’s a project which you can prepare with anything from the top of your head without much real planning. You don’t have to follow-up on it anytime soon if you don’t want and thus defer taking any action until later. You can have ideas *now* and execute them later, whenever you wish.
+
+Deferring [[Projects]], sketching project ideas, and maintaining a “someday/maybe” or “tickler” list fit into the workflow the [[Zettelkasten]]. In essence, you use the [[Zettelkasten]] to buffer [[Knowledge Work]]: create Zettel notes about things you learned when you learn them. The timing doesn’t matter. Collect enough notes until you reach a critical mass and compile a draft. The project preparation has to take the asynchronous nature of your work into account. Following *Getting Things Done* without adjustments will not help much, but you can combine [[Task Management]] and Zettelkasten work very well.
+
+This post is about the details in between, how to transcend task management to prepare and not just plan writing projects effectively.
+
+## Task Management doesn’t fit at the start of the [[Writing Process]]
+
+The process revealed several shortcomings. For one, most parts of the creative process cannot be mapped to tasks. It doesn’t make much sense to write a to-do list for a book like this, for example:
+
+> - think about the contents
+> - finish chapter 1
+> - finish chapter 2
+> - finish chapter 3
+> - write dedication to Mom
+> - proof-read
+> - publish
+
+One problem is that these steps aren’t actionable. You don’t take a few minutes and *do* what is on the list. Writing a chapter may take weeks. You may need to go back a few steps and do research. You may revise an existing outline in the last minute.
+
+Another related problem is that every creative process is inherently un-plannable. Up-front planning of the whole process will not work because you cannot know what to do before you start. You learn more about your next steps during the process.
+
+Instead of a rigid plan, you need a flexible approach that can accomodate to change.
+
+For book projects I do keep task lists. But they don’t look like the one above. They contain research prompts, for example. Say I write chapter 3 at the moment. I insert text fragments from Zettel notes and then revise the result, creating an outline for my own reference to make sense of the chapter’s structure. I find that a topic lacks depth. So I open my project task list and add:
+
+> - chapter 3
+> 	- research more deeply about X
+> 		- ask John about his recent findings on Y
+> 		- update the outline
+> 		- check for duplication with existing chapters
+
+That’s a list of tasks I need to be aware of for completing a draft. That’s not the kind of tasks that make *starting* the book project more likely, though. They are maintenance tasks which pop up during the process and need a place to not slip by.
+
+I do similar things for programming projects. At first I write a handful of rough milestone-like features for the next big software update. Then I do research and add tasks to try out specific approaches. During the actual development I then follow-up with bug reports, finding sources of crashes, etc.
+
+For all of this I direly need a task list so I can defer taking action to later. Imagine I find 5 causes for my app to crash during the first test runs. Without taking note, I would forget the possible causes of at least 4 of them while I investigate the first one.
+
+I can focus on the task because I don’t have to remember details. That’s the only use of any task management, be it software or paper-based: unloading boring details from your mind.
+
+## The kind of planning-ahead that does make sense
+
+![library catalogue](https://[[zettelkasten.de]]/img/blog/201607180846_library-catalogue.jpg)
+
+old library catalog by [[Andrés Monroy-Hernández]]. License: CC BY-SA 2.0
+
+How to start a project if task lists don’t work because you cannot [[Capture]] stuff you need to get started and because you don’t yet know the details you need to finish?
+
+Nowadays, after [[Sascha]] tested the heck out of this method for himself for years already, I start most writing projects as [[Outlines]] in [[[nvALT]]](https://zettelkasten.de/posts/nvalt-zettelkasten-implementation/) (my Zettelkasten archive app of choice). That’s right: they are files in the same Zettel [[Note Archive]] without themselves having an ID.
+
+I put my outlines in files that start with `- O`: “O” stands for “outline”, and the leading dash is for sorting files. Since my Zettel start with their ID (like `201607171830`), putting a dash at the beginning of the file name makes these files appear at the very bottom of the Zettel list in my app. I sort my notes by name (descending) so that the newest Zettel is at the top of the list. Other glyphs make files appear even before the latest Zettel, like `§`. Try for yourself what results your note archive software produces. I found this little hack to be super useful.
+
+A very recent and still small outline file called `- O reswift` looks like this:
+
+```
+* Analyzing ReSwift
+    * §201605291256 ReSwift building blocks
+* Architecture
+    * §201606161929 ReSwift doesn't impose architectural constraints
+    * §201606161939 ReSwift's role in a layered architecture
+```
+
+With the help of my [outline compilation script](https://zettelkasten.de/posts/zettelkasten-outline-script/) I can make a very rough (and, in this case, very short) draft from the outline.
+
+There are a dozen long-running outlines living next to my notes. When Zettel notes are text fragments, the outlines hold fragments together as a writing project. In that sense an outline is the project – until I move it to the next step: compiling a first draft and editing around. I started the outline from above as recently as May, 29th. Other outlines are 4 years old, growing very slowly. You can see that I worked in a similar way when compiling my [Justice for Hedgehogs](https://zettelkasten.de/posts/[[Evernote]]-project-progress-invitation/) paper. (See [the outline itself](https://www.evernote.com/shard/s4/sh/413d8138-ed87-4cb5-9b2e-4365612655ef/9dd42d31327b571c05e1055afb608c80).)
+
+Next to Zettel links, these outlines can contain notes, paragraphs, and headings on their own. Otherwise I wouldn’t be able to give ideas for structuring the piece a place to live.
+
+If I hadn’t already decided to write the “reswift” book, I may have simply put a rough plan in a new outline file for future reference. You don’t have to understand computer science to grasp what that’d look like:
+
+> ReSwift is a library to [[Model]] unidirectional [[Flow of Information]] in apps. Instead of changing data in response to user-originating events in one place and update the user interface when new stuff from a server arrives, say, there’s only one single flow of data to the user interface. Events are dispatched to a “store” which updates the data representation and then sends off an update to interested UI components. This truly decouples data presentation to the user from data modification in the “backend.”
+> 
+> I’d like to explain the benefits of this approach in more detail:
+> 
+> - How does it compare to naive or traditional development on the iOS and [[macOS]] platform?
+> - Does it scale for complex apps like Facebook, where the timeline consists of a plethora of ever-changing components?
+> - Does this dictate a special app architecture?
+> - How can you make a “good” app using ReSwift?
+
+Point is: an idea for a writing project can come along in different ways. It may be vague, like the statement “a book about ReSwift in app development”. It may be a concrete plan like the one I cited above. Or it may be an ongoing outline, going wherever your research will lead you, having a live on its own. It’s a buffer file that helps you continuously write long-ish text over the course of years if need be.
+
+This is just another application of the principles we discussed here already: start early, don’t make a fuzz about the first steps, and [[Trust the Process]].
+
+## Sascha’s Comment
+
+This is exactly the method I use. I tried *Getting Things Done* myself and was a bit disappointed. Some elements connected very well to my workflow but I experienced that it could neither grasp the creative process of knowledge work nor of writing in general. I leave the details for another story and rather give you an example of my actual work.
+
+If I have an idea and feel like writing, I write it down in one session. Mostly it has the length of one article which varies from 1000 to 5000 words.
+
+Very often I don’t have an idea which is not related to the text I currently write. I compose a Zettel of it and then go trough *all* my buffer files and explore for which one it is relevant. Every buffer file contains either a finished project (at this moment two books), an active project (at this moment “Reflexion und Analyse des Lebenswandels” which means something like “Reflection and analysis on the way of life”) or inactive projects.
+
+The inactive projects department makes this module of the Zettelkasten Method module so effective. As a knowledge worker everything should be yoked to your knowledge work. That means to your creative [[Thinking]] and writing. Your thinking shouldn’t bend to your tools but the other way around. When I read and write I constantly have ideas not relevant for the project. They are right things but not *the* right things for the active project. They turn to be very valuable. So, I compose Zettels and search several dozen projects and more overview Zettel and always find a couple of projects which benefit from these deviations.
+
+**In short:** I can think and write while the systems takes the burden of having order and structure which would hinder my free thinking.
+
+Every Zettel gets more value from the connectivity than the Zettels before. The people will be *very* surprised how I can be so productive while they don’t see that it will be the result of careful and plentiful investment in the past. I already can see the acceleration I talked about in the [last blogpost](https://zettelkasten.de/posts/zettelkasten-[[Antifragile]]/).
+
+The downside is that it can take a couple of years to get this [[Idea Verse Light]] to a point from which it produces knowledge products (i.e. books, articles, theories, models, concept families). I cannot write purely with this method because I need a more focused approach to get the first books out faster. I work as a trainer for a living but want to concentrate more on my writing. That means I need more output now at the expense of long-term [[Productivity]].
+
+To give you some numbers:
+
+- I have one active project.
+- I have to finished projects which will be updated with fresh ideas (*The Zettelkasten Method* book is one of these projects.)
+- I have 23 inactive projects. (Yes, I can write 23 books simultaneously.)
+- I have 54 **additional** overview Zettel, some of which are on the tip to be promoted to inactive projects. That means that I am currently writing 77 projects at the same [[Time (magazine)]] without any problem.
+
+**In very short:** Do knowledge work and don’t bend to the tools of knowledge work.
+

@@ -1,0 +1,243 @@
+---
+title: Glossary
+---
+
+# Glossary
+
+## Entities
+
+- [[AdSense]] - tool
+- [[DK wiki/entities/ai]] - other
+- [[Alan Watts]] - other
+- [[America]] - other
+- [[Aristotle]] - other
+- [[Arthur Koestler]] - other
+- [[Author]] - other
+- [[Beehive]] - tool
+- [[ChatGPT]] - other
+- [[Cortex Writing System]] - tool
+- [[Creator]] - other
+- [[Dan Koe]] - person
+- [[David Deutsch]] - other
+- [[DaVinci]] - person
+- [[Einstein]] - person
+- [[Elon Musk]] - other
+- [[Email List]] - other
+- [[Employers]] - other
+- [[Gautama Buddha]] - other
+- [[Google]] - tool
+- [[Horace Mann]] - other
+- [[Independent Creators]] - other
+- [[Instagram]] - tool
+- [[Internet]] - other
+- [[Jeff Bezos]] - other
+- [[Jesus Christ]] - other
+- [[John McCarthy]] - other
+- [[Jordan Peterson]] - other
+- [[Jose Rosado]] - other
+- [[Justin Welsh]] - other
+- [[Karl Popper]] - other
+- [[Krishna]] - other
+- [[LinkedIn]] - other
+- [[Marcus Aurelius]] - person
+- [[Massachusetts]] - other
+- [[Masterclass]] - other
+- [[Newsletter]] - other
+- [[Newsletters]] - other
+- [[Norbert Wiener]] - other
+- [[Notion]] - tool
+- [[Peterson Academy]] - other
+- [[Photoshop]] - other
+- [[Plato]] - other
+- [[Podcasts]] - other
+- [[Potential Customer]] - other
+- [[Potential Customers]] - other
+- [[Prussia]] - other
+- [[Publishers]] - other
+- [[Record Labels]] - other
+- [[Reddit]] - other
+- [[Self-Improver]] - other
+- [[Shakespeare]] - person
+- [[Skillshare]] - other
+- [[Social Media]] - other
+- [[Society]] - other
+- [[Socrates]] - other
+- [[Software Tools]] - tool
+- [[Stan]] - tool
+- [[Substack]] - tool
+- [[Target Audience]] - other
+- [[Threads]] - tool
+- [[Tim Ferriss]] - other
+- [[Traditional Education System]] - other
+- [[Tweet On-Air]] - other
+- [[Twitter]] - other
+- [[Universities]] - other
+- [[Website]] - other
+- [[Website Builder]] - other
+- [[DK wiki/entities/x]] - tool
+- [[YouTube]] - other
+- [[Zoom]] - tool
+- [[Zuby]] - other
+
+## Concepts
+
+- [[5 Levels of Consciousness]]
+- [[Accumulated Advantage]]
+- [[Achievement Stage]]
+- [[Actionable Principles]]
+- [[AIDA Framework]]
+- [[Anti-Entropy Wealth Creation]]
+- [[Anti-Vision]]
+- [[Audience Building as a Skill]]
+- [[Audience Distribution Asset]]
+- [[Authenticity Crisis]]
+- [[Beginner's Hell]]
+- [[BPAS Framework]]
+- [[Brand Book Methodology]]
+- [[Brand Content Marketing Product Model]]
+- [[Business Essence]]
+- [[Calling]]
+- [[Career]]
+- [[Challenge]]
+- [[Common Mistakes]]
+- [[Conformist Stage]]
+- [[Consciousness Elevation]]
+- [[Constraints]]
+- [[Consulting Focus]]
+- [[Content & Code Leverage]]
+- [[Content Driven Strategy]]
+- [[Content Flywheel]]
+- [[Content Hierarchy]]
+- [[Contribution Level of Purpose]]
+- [[Creativity Level of Purpose]]
+- [[Creator Economy]]
+- [[Curiosity]]
+- [[Curiosity vs Coping]]
+- [[Cybernetics]]
+- [[Data-Driven Iteration]]
+- [[Decentralized Education]]
+- [[Deep Generalism]]
+- [[Default Mode Network]]
+- [[Development-Based Path]]
+- [[Digital Tool Stack]]
+- [[Direct Response Marketing (DRM)]]
+- [[Distribution First Rule]]
+- [[Education Gap]]
+- [[Education Products]]
+- [[Eight-Step Framework]]
+- [[Entrepreneurial Method (Scientific Methodology)]]
+- [[Entrepreneurship]]
+- [[Entropy]]
+- [[Evergreen Markets]]
+- [[Evergreen Skills]]
+- [[Experience via Unpaid Labor]]
+- [[Exponential Growth Event]]
+- [[First $1000 Goal]]
+- [[Five Levels of Consciousness]]
+- [[Flow State]]
+- [[Four Pillars Framework]]
+- [[Four-Hour Work Week Philosophy]]
+- [[Generalist Approach]]
+- [[Goals]]
+- [[Hierarchy of Achievement]]
+- [[High Income Skills]]
+- [[Holarchy]]
+- [[Horizontal Development]]
+- [[Human Behavior Three Elements]]
+- [[Imposter Syndrome]]
+- [[Influential Writing Ten Commandments]]
+- [[Intelligent Imitation]]
+- [[Interest Graph]]
+- [[Interest-based Education]]
+- [[DK wiki/concepts/job]]
+- [[Koch's Law]]
+- [[Kosmos]]
+- [[Labor Value Theory]]
+- [[Levels of Purpose]]
+- [[Levers]]
+- [[Linear Thinking Trap]]
+- [[Long-Termism]]
+- [[Manipulation]]
+- [[Marketing Before Product]]
+- [[Media Drives Sales]]
+- [[Mental Masturbation]]
+- [[Meta Skill]]
+- [[Micro Education Business Model]]
+- [[Micro-Product]]
+- [[Micro-Service]]
+- [[Minimum Viable Offer (MVP)]]
+- [[Minimum Viable Vision]]
+- [[Mission]]
+- [[Modern Slavery]]
+- [[Money Asymmetry]]
+- [[Nature's Compass]]
+- [[Noise vs Signal]]
+- [[Non-Needy Networking]]
+- [[Offer]]
+- [[One-Person Business Model]]
+- [[P Framework]]
+- [[Paid Learning Commitment]]
+- [[Pain Point Content Strategy]]
+- [[Parkinson's Law]]
+- [[PASTOR Framework]]
+- [[Permissionless Leverage]]
+- [[Personal Brand Core Asset]]
+- [[Personal Monopoly]]
+- [[Personal System]]
+- [[Persuasion]]
+- [[Persuasive Writing Framework]]
+- [[Platform Dependency Risk]]
+- [[Pluralist Stage]]
+- [[POS Framework]]
+- [[Private Domain Asset]]
+- [[Problem Solving Cycle]]
+- [[Problems Are the Path]]
+- [[Process vs Product]]
+- [[Product as Authority/Anchor]]
+- [[Profitable Writing System]]
+- [[Project-based Learning]]
+- [[Projects]]
+- [[Pyramid Principle]]
+- [[Quick Building]]
+- [[Researcher]]
+- [[Reverse Engineering Research]]
+- [[Reverse Engineering Writing]]
+- [[Risk Hedging via Diversified Interests]]
+- [[Second Renaissance]]
+- [[Self-Awareness]]
+- [[Self-Governance]]
+- [[Self-Monetization]]
+- [[Self-Reliance]]
+- [[Shiny Object Syndrome]]
+- [[Skill Stacking]]
+- [[Skill Value Creation Framework]]
+- [[Skill-Based Path]]
+- [[Social Skills as Skill]]
+- [[Specialization Risk]]
+- [[Specific Knowledge]]
+- [[Spiritual Blacksmith Methodology]]
+- [[Status Level of Purpose]]
+- [[Survival Level of Purpose]]
+- [[Survival State of Consciousness]]
+- [[Synthesizer]]
+- [[Systematized Work]]
+- [[Teleology]]
+- [[Ten Commandments (Work)]]
+- [[The 4-Hour Work Week]]
+- [[The Niche Is You]]
+- [[Three Leverage Models]]
+- [[Three Profit Product Types]]
+- [[Top-Down Creation]]
+- [[Topic Tree Method]]
+- [[Traditional Education System]]
+- [[Traditional Work Mode]]
+- [[Tribe Building]]
+- [[Value Creation]]
+- [[Value Creation Framework]]
+- [[Value Creator]]
+- [[Value Perception]]
+- [[Vertical Development]]
+- [[Vision]]
+- [[Wealth Leverage]]
+- [[Why it Matters]]
+- [[Zero-Cost Startup]]

@@ -1,0 +1,389 @@
+---
+title: Glossary
+---
+
+# Glossary
+
+## Entities
+
+- [[12 Rules for Life]] - book
+- [[43 Folders]] - other
+- [[Adobe Creative Suite]] - tool
+- [[Amethyst]] - tool
+- [[3.Resources/AI/Karpathy/Andrej Karpathy]] - person
+- [[Andrés Monroy-Hernández]] - person
+- [[Anki]] - tool
+- [[Anne Lamott]] - person
+- [[Anthony Robbins]] - person
+- [[Antifragile]] - book
+- [[AnyType]] - tool
+- [[Apple Notes]] - tool
+- [[Apple Watch]] - tool
+- [[Ars Magna]] - tool
+- [[Asana]] - tool
+- [[Ash Maurya]] - person
+- [[Awaken the Giant Within]] - book
+- [[Ben Hammersley]] - person
+- [[Berkshire Hathaway]] - other
+- [[BibDesk]] - tool
+- [[BibTeX]] - tool
+- [[Bielefeld University]] - other
+- [[Brian Crain]] - person
+- [[Cal Newport]] - person
+- [[Charlie Munger]] - person
+- [[Christian]] - person
+- [[Christopher Booker]] - person
+- [[Claude]] - tool
+- [[Clean theme]] - tool
+- [[Cotemaxime]] - person
+- [[Craft]] - tool
+- [[Cybertron]] - tool
+- [[Dancing with Systems]] - article
+- [[Daneb]] - person
+- [[Danny Hatcher]] - person
+- [[Dave Edwards]] - person
+- [[Dave Edwards Media]] - other
+- [[David Allen]] - person
+- [[DaVinci Resolve]] - tool
+- [[Deep Work]] - book
+- [[Destina]] - person
+- [[Devinat11]] - person
+- [[dgbecher]] - person
+- [[Do the Work!]] - book
+- [[Do the Work! (book)]] - book
+- [[DokuWiki]] - tool
+- [[Dom Sagolla]] - person
+- [[Donella Meadows]] - person
+- [[Dracula for Obsidian]] - tool
+- [[Dropbox]] - other
+- [[DTU]] - other
+- [[Dune]] - book
+- [[Elon Musk]] - person
+- [[Epipheo]] - other
+- [[Erica Xu]] - person
+- [[Eureka Labs]] - other
+- [[Evernote]] - tool
+- [[Excalidraw]] - other
+- [[Feedly]] - tool
+- [[FeedWrangler]] - tool
+- [[Flomo]] - tool
+- [[Fooled by Randomness]] - book
+- [[Frank Herbert]] - person
+- [[Franklin Covey]] - other
+- [[Gemini]] - tool
+- [[Getting Things Done]] - tool
+- [[Getting Things Done: The Art of Stress-Free Productivity]] - book
+- [[GitHub]] - other
+- [[GoodNotes]] - tool
+- [[Google]] - other
+- [[Google Colab]] - tool
+- [[Google Docs]] - tool
+- [[Google Keep]] - tool
+- [[Henrik Enggaard]] - person
+- [[Heptabase]] - tool
+- [[How to Write a Lot]] - book
+- [[Idea Verse Light]] - tool
+- [[Ido Portal]] - person
+- [[IFTTT]] - tool
+- [[Incerto]] - other
+- [[Instapaper]] - tool
+- [[JabRef]] - tool
+- [[James Fallows]] - person
+- [[JanDix]] - person
+- [[Jarodise]] - person
+- [[Jason Rehmus]] - person
+- [[Jeff Goins]] - person
+- [[Johannes Schmidt]] - person
+- [[John Truby]] - person
+- [[Jonathan Pageau]] - person
+- [[Jordan Peterson]] - person
+- [[Josh Waitzkin]] - person
+- [[Kait Hanrahan]] - person
+- [[kepano]] - person
+- [[KeyboardMaestro]] - tool
+- [[Kmaasrud]] - person
+- [[LaTeX]] - tool
+- [[Leanpub]] - tool
+- [[Lifehacker]] - other
+- [[Linking Your Thinking]] - other
+- [[Lionel Davoust]] - person
+- [[LLM101n]] - other
+- [[Logseq]] - tool
+- [[Luuk Van Waes]] - person
+- [[macOS]] - tool
+- [[Man's Search for Meaning]] - book
+- [[Mandy Brown]] - person
+- [[Marked 2]] - tool
+- [[Marquette University]] - other
+- [[Martin Strel]] - person
+- [[Matthew Cassinelli]] - person
+- [[Mediapathic]] - person
+- [[Merlin Mann]] - person
+- [[Microsoft Word]] - tool
+- [[Minimal Reader]] - tool
+- [[MIT]] - other
+- [[Morgan]] - person
+- [[Mr. Reader]] - tool
+- [[MultiMarkdown]] - tool
+- [[Naomi]] - person
+- [[Nassim Nicholas Taleb]] - person
+- [[NetNewsWire]] - tool
+- [[Nick Milo]] - person
+- [[Nicole van der Hoeven]] - person
+- [[Niklas Luhmann]] - person
+- [[Notability]] - tool
+- [[Note Star]] - person
+- [[Notion]] - tool
+- [[nvALT]] - tool
+- [[Obsidian]] - tool
+- [[Obsidian Company]] - other
+- [[OpenAI]] - other
+- [[Paul J. Silvia]] - person
+- [[Penguin Books]] - other
+- [[Peter Jan Schellens]] - person
+- [[Pinboard]] - tool
+- [[Pixabay]] - other
+- [[Pocket]] - tool
+- [[Poor Charlie's Almanack]] - book
+- [[Product Hunt]] - other
+- [[Readwise]] - other
+- [[Reeder]] - tool
+- [[Richard Feynman]] - person
+- [[Rome Research Online]] - tool
+- [[Running lean. Iterate from plan A to a plan that works]] - book
+- [[Sara]] - person
+- [[Sascha]] - person
+- [[Scrivener]] - tool
+- [[Shawn Coyne]] - person
+- [[Shida Li]] - person
+- [[Simply Digital]] - other
+- [[Skin in the Game]] - book
+- [[Stanford University]] - other
+- [[Steph Ango]] - person
+- [[stephango.com]] - other
+- [[Stephen King]] - person
+- [[Steven Pressfield]] - person
+- [[Sun Wei]] - person
+- [[SweatingCommas.com]] - other
+- [[Taylor Swift]] - person
+- [[Tesla]] - other
+- [[TextEdit]] - tool
+- [[TextExpander]] - tool
+- [[TextMate]] - tool
+- [[The Archive for macOS]] - tool
+- [[The Art of Learning]] - book
+- [[The Atlantic]] - other
+- [[The Black Swan]] - book
+- [[The Guardian]] - other
+- [[The Limits to Growth]] - book
+- [[The Matrix]] - other
+- [[Things]] - tool
+- [[Thinking in Systems: A Primer]] - book
+- [[Tiago Forte]] - person
+- [[Tick Tick]] - tool
+- [[TiddlyWiki]] - tool
+- [[Time (magazine)]] - other
+- [[Todoist]] - tool
+- [[Typinator]] - tool
+- [[Umberto Eco]] - person
+- [[Viktor Frankl]] - person
+- [[Warren Buffett]] - person
+- [[Wired (magazine)]] - other
+- [[Word Counter for Mac]] - tool
+- [[Workflowy]] - tool
+- [[X (Twitter)]] - other
+- [[YouTube]] - other
+- [[Zettelkasten]] - tool
+- [[zettelkasten.de]] - other
+- [[Zotero]] - tool
+
+## Concepts
+
+- [[Actionability]]
+- [[Active Recall]]
+- [[Agentic Engineering]]
+- [[Analogies]]
+- [[Antifragile]]
+- [[Anxiety Management]]
+- [[Archives]]
+- [[Areas]]
+- [[Areas of Focus]]
+- [[Argument]]
+- [[Asymmetry]]
+- [[Atomic Notes]]
+- [[Automation Workflow]]
+- [[Backpropagation / Chain Rule]]
+- [[Barbell Method of Reading]]
+- [[Barbell Strategy]]
+- [[Bidirectional Linking]]
+- [[Black Swan]]
+- [[Bottom-up Thinking]]
+- [[Calendar/Schedule]]
+- [[Capture]]
+- [[Circle of Competence]]
+- [[Citation Management]]
+- [[Clarify]]
+- [[CODE Framework]]
+- [[Collection Phase]]
+- [[Collector's Fallacy]]
+- [[Commitment]]
+- [[Composing]]
+- [[Compounding]]
+- [[Connected Thinking]]
+- [[Connecting the dots]]
+- [[Contexts]]
+- [[Core Maneuvers]]
+- [[Cornell Note-taking]]
+- [[Counterargument]]
+- [[Cross-disciplinary Reading]]
+- [[Cross-Platform Consistency]]
+- [[Custom CSS]]
+- [[Deep Processing]]
+- [[Definition]]
+- [[Desktop Processing]]
+- [[Digital Artifacts]]
+- [[Directional Work]]
+- [[Distraction-free Environment]]
+- [[Durability]]
+- [[Edit Mode]]
+- [[Editor Settings]]
+- [[Eisenhower Matrix]]
+- [[Emergence]]
+- [[Engage]]
+- [[Ephemeral Software]]
+- [[External Memory]]
+- [[External Memory/System]]
+- [[Fact]]
+- [[Feedback Loops]]
+- [[Feynman Technique]]
+- [[Fiction Writing]]
+- [[File Management]]
+- [[File over app]]
+- [[First Drafts]]
+- [[Fleeting Notes]]
+- [[Flow of Information]]
+- [[Flow State]]
+- [[Fragile]]
+- [[Free Writing]]
+- [[From Scratch Implementation]]
+- [[Future-proofing]]
+- [[Gall's Law]]
+- [[Genuine Engagement]]
+- [[Getting Things Done]]
+- [[Graph View]]
+- [[GTD (Getting Things Done)]]
+- [[GTD Workflow]]
+- [[Horizons of Focus]]
+- [[Hotkeys]]
+- [[Hypertext]]
+- [[Idea Verse]]
+- [[Identity Shift]]
+- [[Inbox]]
+- [[Indirectional Work]]
+- [[Inversion]]
+- [[Joy in PKM]]
+- [[Keyword Clusters]]
+- [[Knowledge Cycle]]
+- [[Knowledge Work]]
+- [[Layers of Evidence]]
+- [[Leverage Points]]
+- [[Link Context]]
+- [[Linked Mentions / Backlinks]]
+- [[Linking Your Thinking]]
+- [[Literary Studies]]
+- [[Literature Notes]]
+- [[LLM OS]]
+- [[LLM Wiki]]
+- [[Local Storage]]
+- [[Longevity]]
+- [[Machine Learning]]
+- [[Map of Content (MOC)]]
+- [[Markdown]]
+- [[Measurement]]
+- [[Memory]]
+- [[Mental Models]]
+- [[Mental Sweep]]
+- [[Mental Teeth]]
+- [[Mind Like Water]]
+- [[Mind Sweep]]
+- [[Minimalism]]
+- [[Mobile Filtering]]
+- [[Model]]
+- [[Nearness Principle]]
+- [[Next Actions]]
+- [[Note Archive]]
+- [[Obsidian Flight School]]
+- [[Open Loops]]
+- [[Organize]]
+- [[Outlines]]
+- [[Outlining & Mind Mapping]]
+- [[PARA Method]]
+- [[Permanent Notes]]
+- [[Personal Knowledge Management]]
+- [[Personal Knowledge Management (PKM)]]
+- [[Preview Mode]]
+- [[Principle of Connectivity]]
+- [[Principle of Directness]]
+- [[Productivity]]
+- [[Project Management]]
+- [[Project-based Zettelkasten]]
+- [[Projects]]
+- [[Psychology of Human Misjudgment]]
+- [[Publish Iteratively]]
+- [[RAG]]
+- [[Randomness]]
+- [[Reading is Searching]]
+- [[Reading List]]
+- [[Red/Green/Blue Status System]]
+- [[Reference Manager]]
+- [[Reflect]]
+- [[Research Database]]
+- [[Research vs. Drafting Separation]]
+- [[Resilience]]
+- [[Resources]]
+- [[Review]]
+- [[Review/Reflect]]
+- [[Revising]]
+- [[Robust]]
+- [[RSS Subscriptions]]
+- [[Second Brain]]
+- [[Second Brain (BASB)]]
+- [[Self-monitoring]]
+- [[Semantic Graph]]
+- [[Serendipitous Discovery]]
+- [[Shallow Processing]]
+- [[Shifting the Burden]]
+- [[Signal-to-noise ratio]]
+- [[Skepticism]]
+- [[Skin in the Game]]
+- [[Software 2.0]]
+- [[Stocks and Flows]]
+- [[Story Practicians]]
+- [[Story Theoreticians]]
+- [[Structure Note]]
+- [[Structure Zettel]]
+- [[Stuff vs. Thing]]
+- [[Systems Thinking]]
+- [[Task Management]]
+- [[Test-Driven Writing]]
+- [[Theory]]
+- [[Thing Note]]
+- [[Thinking]]
+- [[Thinking Machine]]
+- [[Time Management]]
+- [[Tinkering]]
+- [[Tokenization]]
+- [[Top-down Thinking]]
+- [[Transformer Architecture]]
+- [[Trigger List]]
+- [[Trust the Process]]
+- [[Two-Minute Rule]]
+- [[Uncertainty]]
+- [[Vault]]
+- [[Via Negativa]]
+- [[Vibe Coding]]
+- [[Waiting List]]
+- [[Writing]]
+- [[Writing Process]]
+- [[Zettelkasten]]
+- [[Zettelkasten Method]]

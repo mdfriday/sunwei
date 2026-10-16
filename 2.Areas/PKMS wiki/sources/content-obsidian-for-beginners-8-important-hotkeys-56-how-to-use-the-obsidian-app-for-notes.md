@@ -1,0 +1,95 @@
+---
+title: Obsidian for Beginners 8 Important Hotkeys (56) — How to Use the Obsidian App for Notes.md
+type: source
+path: /Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/2.Areas/PKMS-wiki/content/Obsidian for Beginners 8 Important Hotkeys (56) — How to Use the Obsidian App for Notes.md
+date: 2026-05-08T10:39:23.696Z
+---
+
+# Obsidian for Beginners 8 Important Hotkeys (56) — How to Use the Obsidian App for Notes.md
+
+**Path**: `/Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/2.Areas/PKMS-wiki/content/Obsidian for Beginners 8 Important Hotkeys (56) — How to Use the Obsidian App for Notes.md`
+
+**Summary**: 
+
+## Entities
+
+- [[Obsidian]] (tool)
+- [[YouTube]] (other)
+- [[Nick Milo]] (person)
+- [[Linking Your Thinking]] (other)
+
+## Concepts
+
+- [[Productivity]]
+- [[Markdown]]
+- [[Hotkeys]]
+- [[Edit Mode]]
+- [[Preview Mode]]
+
+## Original Content
+
+---
+title: "Obsidian for Beginners: 8 Important Hotkeys (5/6) — How to Use the Obsidian App for Notes"
+source: "https://www.youtube.com/watch?v=cDcoBMVJsvk&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd&index=6"
+author:
+  - "[[Linking Your Thinking with Nick Milo]]"
+published: 2020-09-25
+created: 2026-05-08
+description: "Build your own thinking partner with superpowers - Linking Your AI: https://www.linkingyourthinking.com/linking-your-ai?utm_source=youtube&utm_medium=social&..."
+tags:
+  - "clippings"
+---
+![](https://www.[[YouTube]].com/watch?v=cDcoBMVJsvk)
+
+## Transcript
+
+### Why use [[Hotkeys]]?
+
+**0:00** · isn't it frustrating when the tools you use can't keep up with how fast you're [[Thinking]] one solution to this is the use of keyboard hotkeys i use them all the [[Time (magazine)]] in the internet browser and different apps that i use it really takes your thinking to a faster speed now when it comes to apps like [[Obsidian]] knowing the most important hotkeys can really take your thinking to the next level just as a reminder i'm [[Nick Milo]] and this is [[Linking Your Thinking]] where we talk about the how and why of making meaningful notes and this is one of the final
+
+**0:34** · videos in our series on the basics of using the note making app obsidian let's dive in okay i'm excited to jump into the hotkeys so let's create a new note using a hotkey i'll tell you that one later and let's call this the eight most important hotkeys in obsidian i'm
+
+**0:56** · only showing you three now but you will see the other ones so the first one is open link while you're in [[Edit Mode]] you've seen me do this already and it's a command click on the link i think on a windows it's control i'm going to be speaking in terms of the [[macOS]] operating [[Idea Verse Light]] so keep that in mind so let's find a note and we're in edit mode right because we can see this hash
+
+### 1\. Open link in edit mode (cmd-click on link)
+
+**1:18** · now if we get out of edit mode which we'll cover then we don't see the hash anymore we're back in edit mode so if i just click on this note it's like i'm trying to edit it but once i hit command and then i click boom opens the note i use this all the time super super powerful once you start thinking in terms of these links you need to be able to use this hotkey so that's a command click so where's another one adversity paradox command press command and click boom we're there okay let's now i'm looking on the side and let's go to
+
+**1:55** · the next one so number two toggle preview so this is edit mode this is [[Preview Mode]] how am i getting there i'm hitting command e what's really nice is this allows you to be a left-handed ninja you just keep your left hand right on the keyboard hold down command and you can toggle back and forth when you're in preview mode as you might expect it looks nicer but you can't edit when you're in edit mode you see the you know kind of the behind the scenes formatting of [[Markdown]]
+
+### 2\. Toggle edit/preview (cmd-e)
+
+**2:29** · and you can edit so that's number two number three open the quick switcher so once you do want to start typing bring that right hand off of the mouse and hit command o and that opens up the quick switcher then you can start typing whatever word comes to mind i'm thinking [[Note Star]] but i can't remember it so i was like note and then n-o-s for whatever
+
+### 3\. Open quick switcher (cmd-o)
+
+**2:53** · reason and then ooh note star i hit enter boom we get taken to the note so that is another extremely valuable hotkey let's throw in the next three boom number four search this is command shift f
+
+### 4\. Search (cmd-shift-f)
+
+**3:13** · see what happens here it takes us to this new pane we were at file explorer but when i hit command shift f i just can start typing and in this case i'm going to type in for never and i can see the two notes populate immediately maybe i want to search for a hashtag so then i go concept and i have these three concepts and i can see it was used twice in this in this note one here and one here very cool
+
+**3:44** · boom that's repeat don't need that and let's go back now next hotkey okay so you start navigating around and just like an internet browser sometimes you want to navigate backwards so there's actually a hotkey for that obsidian is a pretty advanced app so instead of wasting real estate with big back and forward buttons which will probably be some sort of plug-in later if you really want instead the way to do that is to use hotkey in this case it's command option left arrow
+
+### 5\. Back (cmd-opt-left arrow)
+
+**4:20** · left arrow left arrow left left left left left and just takes me back back back same thing command option right takes me forward and that's number six two more to go can you see how just a few hotkeys can really take your game to that next level final two new note
+
+### 6\. Forward (cmd-opt-right arrow)
+
+### 7\. New note (cmd-n)
+
+**4:39** · remember we were just going to new note we started this video series on new note well if you can imagine it's command n that creates a new note so i just hit command n and i just start typing and that's the title immediately it can be whatever you'd like it to be then you hit the tab button and then just you're typing in the title so that's pretty nice how am i going to get back to that old note i hit back boom i'm back and last part this kind of opens up a whole new window of functionality so we're just hinting at it is that we can open a note in a new
+
+**5:13** · window so what does that look like not a [[Linking Your Thinking]] new window but a new pane so we command click on a node so remember when we were in edit mode if we command clicked on a link it opened that note in this pane but if we command click over here on a node let's see what happens command click on this node it opens a new pane and these might be a little tight so in case you weren't aware you can
+
+### 8\. Open note in new window (cmd-click on note)
+
+**5:44** · find the edges and drag these however you need to so you can see them so now we have two windows and remember what i can do to see preview mode i can toggle that with command e here is me toggling preview mode again now let's say maybe i don't want to look at red pill blue pill so what i'm going to do is quick switcher what was that command o and i type adverse oh there it is and i hit enter and i'm at the adversity paradox so hopefully you can see just how powerful
+
+**6:21** · this application is especially once you know the markdown especially when you know a few basic settings and especially especially when you have a few hotkeys at your disposal so if you like this video and you haven't already please subscribe below and especially in this video please comment below i mean these are just eight hot keys i'm sure if you have any experience with obsidian you may have found your own hotkeys that you really really enjoy and i'd love to see what those are below so please comment down there and i hope you've been enjoying these videos guess what we're on to the very last video i'll see you in the next one
+
+### Final Thoughts
+
+**7:16** · you
+

@@ -1,0 +1,76 @@
+---
+title: 10.What are skills?.md
+type: source
+path: /Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/Claude Code 101-wiki/content/10.What are skills?.md
+date: 2026-05-22T07:28:09.787Z
+---
+
+# 10.What are skills?.md
+
+**Path**: `/Users/weisun/github/mdfriday/sunwei/.obsidian/plugins/mdfriday/workspace/projects/Claude Code 101-wiki/content/10.What are skills?.md`
+
+**Summary**: 
+
+## Entities
+
+- [[claude-code|Claude Code]] (tool)
+- [[claude-skills|.claude/skills]] (place)
+
+## Concepts
+
+- [[ai-agent|AI Agent]]
+- [[context-window|Context Window]]
+- [[agentic-coding|Agentic Coding]]
+- [[skill|Skill]]
+- [[slash-command|Slash Command]]
+
+## Original Content
+
+![](https://www.youtube.com/watch?v=bjdBVZa66oU)
+
+## Transcript
+
+**0:03** · Every time you explain your team's coding standards to [[Claude Code]], you're repeating yourself.
+
+**0:09** · Every PR review, you redescribe how you want feedback \[music\] structured. Every commit message, you remind Claude of your preferred format.
+
+**0:18** · And [[Skills]] fix this.
+
+**0:20** · A [[Skill]] is a [[Markdown]] file that teaches Claude how \[music\] to do something once, and Claude applies that knowledge automatically whenever it's relevant.
+
+**0:32** · Agent skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently.
+
+**0:41** · With [[Claude Code]], we have the skill.md file.
+
+**0:45** · The description is how Claude decides whether to use the skill. When you ask Claude to review this PR, it matches your request against available skill descriptions and finds this one.
+
+**0:57** · Claude reads your request, compares it to all available skill descriptions, and activates the ones that match.
+
+**1:05** · You can store skills in a few places depending on who needs them.
+
+**1:10** · Personal skills go in the home directory .claude/skills and follow you across all your project.
+
+**1:17** · These are your preferences, your commit message style, your documentation format, how you like code explained.
+
+**1:24** · Project skills go in the .claude/skills inside of the root directory of your repository. Anyone who clones the repository gets these skills automatically. This is where team standards live, like your company's brand guidelines, preferred fonts, and colors that you use for web design.
+
+**1:43** · Claude Code has several ways to customize behavior.
+
+**1:46** · Skills are unique because they're automatic and task-specific.
+
+**1:51** · [[CLAUDE.md]] files load into every conversation. If you want Claude to always use TypeScript strict mode, that goes in your claw.md file. Skills, on the other hand, load on demand when they match your request. It only loads in the name and description, so it doesn't fill up your entire [[Context Window]]. Your PR review checklist doesn't need to be in the context when you're debugging.
+
+**2:13** · It loads when you actually ask for a review.
+
+**2:17** · Slash commands require you to type them.
+
+**2:19** · Skills don't.
+
+**2:21** · Claude applies them when it recognizes the situation.
+
+**2:27** · Skills work best for specialized knowledge that applies to specific tasks.
+
+**2:32** · [[Code review]] standards your team follows, commit message formats that you prefer, brand guidelines of your organization.
+
+**2:42** · If you find yourself explaining the same thing \[music\] to Claude repeatedly, well, that's a skill waiting to be written.
+
